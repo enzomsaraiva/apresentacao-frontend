@@ -222,15 +222,35 @@ h2 {
 }
 
 .benefits-image {
-  margin-top: 20px;
-  text-align: center;
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
 }
 
 .benefits-image img {
-  max-width: 80%;
+  display: block;
+  width: 100%;
+  max-width: 520px; /* limit width on large screens */
   height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  object-fit: cover;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.benefits-image img:hover,
+.benefits-image img:focus {
+  transform: translateY(-6px) scale(1.01);
+}
+
+@media (max-width: 768px) {
+  .benefits-image {
+    padding: 8px 6px;
+  }
+  .benefits-image img {
+    max-width: 100%;
+  }
 }
 
 .contact-form {

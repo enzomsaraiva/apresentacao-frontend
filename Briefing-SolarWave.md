@@ -1,98 +1,85 @@
-Briefing de Site – SolarWave Energia Renovável
+# Briefing de Site – SolarWave Energia Renovável
 
-Descrição da organização 
-A SolarWave é uma empresa comprometida com a transformação energética do Brasil por meio de soluções sustentáveis baseadas em tecnologia solar fotovoltaica fundada com o propósito de democratizar o acesso à energia limpa e reduzir os impactos ambientais causados pelo uso de fontes não renováveis. A SolarWave atua em projetos residenciais comerciais e rurais oferecendo sistemas personalizados que se adaptam às necessidades de cada cliente com foco em eficiência economia e responsabilidade ambiental a empresa tambem se destaca pela qualidade dos equipamentos pelo suporte técnico especializado e pela transparência em todas as etapas do processo desde o primeiro contato até a instalação e o acompanhamento pós-venda. A SolarWave acredita que a energia solar é mais do que uma alternativa é um caminho para um futuro mais inteligente acessível e sustentável para todos
+## 1. Descrição da Organização 
+A **SolarWave** é uma empresa comprometida com a transformação energética do Brasil por meio de soluções sustentáveis baseadas em tecnologia solar fotovoltaica fundada com o propósito de democratizar o acesso à energia limpa e reduzir os impactos ambientais causados pelo uso de fontes não renováveis. A SolarWave atua em projetos residenciais comerciais e rurais oferecendo sistemas personalizados que se adaptam às necessidades de cada cliente com foco em eficiência economia e responsabilidade ambiental a empresa também se destaca pela qualidade dos equipamentos pelo suporte técnico especializado e pela transparência em todas as etapas do processo desde o primeiro contato até a instalação e o acompanhamento pós-venda. 
 
-Objetivos do site
+> "A SolarWave acredita que a energia solar é mais do que uma alternativa — é um caminho para um futuro mais inteligente, acessível e sustentável para todos."
 
--Apresentar a empresa
+## 2. Objetivos do site
 
--Facilitar compra e aquisição de serviços
+1.  **Apresentação Institucional:** Apresentar a empresa, sua missão, valores e expertise no mercado de energia solar.
+2.  **Geração de Leads:** Facilitar a compra e a aquisição de serviços, servindo como uma ferramenta eficaz de captação de clientes.
 
-Público-alvo
+## 3. Público-Alvo
 
--Proprietários de imóveis residenciais
+O design e a comunicação do site devem ser direcionados para:
 
--Empresas e comércios
+-   Proprietários de imóveis residenciais
+-   Empresas e comércios
+-   Produtores rurais
+-   Público geral consciente ambientalmente e interessado em redução de custos.
 
--Produtores rurais
+## 4. Análise de Concorrência
 
--Público consciente ambientalmente
+-   **Concorrentes Principais:** Vendedoras de equipamentos fotovoltaicos e outras empresas de instalação.
+-   **Posicionamento Estratégico:** O diferencial da SolarWave, que deve ser comunicado pelo site, é a **personalização dos projetos**, a **transparência comercial** e o **suporte técnico contínuo**, que garantem segurança e eficiência ao cliente.
 
-Análise de concorrência
+## 5. Funcionalidades e Recursos Essenciais (MVP)
 
--Vendedoras de equipamentos fotovoltaicos
+-   **Apresentação de Produtos/Soluções** 
+-   **Portfólio de Projetos** 
+-   **Formulário de Contato/Orçamento**
 
--O diferencial da SolarWave está na personalização dos projetos na transparência comercial e no suporte técnico contínuo que garante segurança e eficiência ao cliente em todas as etapas da jornada solar
+## 6. Diretrizes de Design e Estilo (UI/UX)
 
-Funcionalidades e recursos essenciais
+-   **Conceito Visual:** Limpo, moderno e sustentável.
+-   **Paleta de Cores:**
+    -   Verde (sustentabilidade, natureza)
+    -   Amarelo Solar (energia, otimismo)
+    -   Branco (limpeza, modernidade)
+-   **Tipografia:** Legível e amigável (preferência por fontes Sans-serif modernas).
+-   **Elementos Gráficos:** Ícones e ilustrações que remetam à energia limpa.
+-   **Mídia:** Imagens de alta qualidade de instalações reais e da equipe.
+-   **Experiência do Usuário**
 
--Apresentação do produto
+## 7. Estrutura de Páginas (Sitemap Básico)
 
--Portfólio da empresa
+-  **Home**
+-  **Sobre**
+-  **Proposta**
+-  **Contato**
 
--Contato
+## 8. Cronograma Sugerido (Estimativa: 6-7 Semanas)
 
-Design e estilo
+| Etapa | Descrição | Duração |
+| :--- | :--- | :--- |
+| 1 | Planejamento e Briefing Final | 1 semana |
+| 2 | Criação de Identidade Visual | 1 semana |
+| 3 | Wireframes e Protótipos (UI/UX) | 1 semana |
+| 4 | Desenvolvimento Front-end | 2 semanas |
+| 5 | Integração de Funcionalidades (Back-end) | 1 semana |
+| 6 | Testes e Ajustes Finais (QA) | 1 semana |
+| 7 | Lançamento do Site | 1 dia |
 
--Visual limpo moderno e sustentável
+## 9. Orçamento Hipotético
 
--Paleta de cores com verde amarelo solar e branco
+### Investimento Inicial (Setup)
 
--Tipografia legível e amigável
+| Item | Valor Estimado (R$) |
+| :--- | :--- |
+| Planejamento e Arquitetura da Informação | R$ 2.000,00 |
+| Design Visual e Identidade (UI/UX) | R$ 3.000,00 |
+| Desenvolvimento (Front-end e Back-end) | R$ 8.000,00 |
+| Feature: Simulador Interativo | R$ 2.500,00 |
+| SEO (Setup Técnico) e Otimização | R$ 1.500,00 |
+| Produção de Conteúdo (Copywriting) | R$ 2.000,00 |
+| **Subtotal (Projeto)** | **R$ 19.000,00** |
 
--Ícones e ilustrações sobre energia limpa
+### Custos Recorrentes
 
--Imagens de alta qualidade
+| Item | Valor Estimado (R$) | Frequência |
+| :--- | :--- | :--- |
+| Hospedagem e Domínio | R$ 600,00 | Anual |
+| Suporte e Manutenção | R$ 500,00 | Mensal |
 
--Design responsivo para dispositivos móveis
-
--Navegação intuitiva com menu fixo
-
-Estrutura das páginas e conteúdo necessário
-
--Home
-
--Sobre
-
--Proposta
-
--Contato
-
-Cronograma sugerido para desenvolvimento
-
--Planejamento e briefing final: 1 semana
-
--Criação de identidade visual: 1 semana
-
--Wireframes e protótipos: 1 semana
-
--Desenvolvimento front-end: 2 semanas
-
--Integração de funcionalidades: 1 semana
-
--Testes e ajustes finais: 1 semana
-
--Lançamento do site: 1 dia
-
--Total estimado: 6 a 7 semanas
-
-Orçamento hipotético
-
--Planejamento e arquitetura: R$ 2.000
-
--Design visual e identidade: R$ 3.000
-
--Desenvolvimento front-end e back-end: R$ 8.000
-
--Simulador interativo: R$ 2.500
-
--SEO e otimização: R$ 1.500
-
--Produção de conteúdo: R$ 2.000
-
--Hospedagem e domínio anual: R$ 600
-
--Suporte e manutenção mensal: R$ 500
-
--Total inicial estimado: R$ 20.100
+---
